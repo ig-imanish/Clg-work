@@ -1,19 +1,6 @@
 # Basic C++ Program List
-
-**Note:**
- - Give a STAR if you like this 
- - FORK to get more update
- - Make a PULL REQUEST to countribute
-
 <br>
-
-*Put your phone in desktop mode for easy access*
-
 <br>
-
-
- <hr>
-
  <details><summary>ADDITION OF TWO NUMBER</summary>
 
     ```
@@ -296,13 +283,4 @@
     ```
 
 <img>
-
-
  </details>
-
-
-
-
-
-
-
