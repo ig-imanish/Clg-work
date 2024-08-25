@@ -1,8 +1,5 @@
 # C++ Question & Answer
 <br><br>
-
-<hr>
-
 <details><summary> What is Operand?</summary>
 
 - The data or variable on which the operation is performed is called `operand`.
