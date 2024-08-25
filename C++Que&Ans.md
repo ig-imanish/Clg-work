@@ -1,12 +1,4 @@
 # C++ Question & Answer
-
-**Note:**
- - This is just a simple basic C++ questions <br> 
- - Give a STAR if you like this 
- - FORK to get more update
- - Make a PULL REQUEST to countribute
-
-
 <br><br>
 
 <hr>
